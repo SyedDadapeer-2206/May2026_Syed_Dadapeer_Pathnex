@@ -1,0 +1,8 @@
+# What I did today
+3 hours - Attended the morning session and understood the DevOps roadmap
+2 hours - Learned the overview of each DevOps tool
+1 hour - Coding
+
+# Tomorrow's Task
+2–3 hours - Learning and understanding Linux by attending the morning session
+1 hour - Practicing Linux commands
