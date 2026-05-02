@@ -1,0 +1,8 @@
+# What I did today
+2–3 hours - Learning and understanding Linux, basic networking & EC2 creation by attending the morning session.
+2 hour - Practicing Linux commands, Learning networking fundamentals, created EC2 instance on AWS.
+1 hour - Coding.
+
+# Tomorrow's Task
+2 hours - Learning and understanding Linux by attending the morning session.
+2 hour - Practicing Linux commands and focusing more on network & Linux concepts.
