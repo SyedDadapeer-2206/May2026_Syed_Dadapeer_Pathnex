@@ -1,0 +1,9 @@
+# What I did today
+2 hours - Attending the morning session and learning basic Linux commands.
+2 hour - Practicing Linux commands through videos.
+1 hour - Coding practice.
+
+# Tomorrow's Task
+Attend the morning session for 2-3 hours to learn and understand additional Linux commands.
+Spend 2 hours practicing Linux commands through videos.
+Dedicate 1 hour to coding practice.
