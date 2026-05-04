@@ -1,0 +1,10 @@
+# What I did today
+3 hours - Attending the morning session and learned additional Linux commands(ssh-keygen, adduser, passwd, groupadd, 
+          sudo, head, tail, soft link, hard link, find, umask, tar).
+2 hour - Practicing Linux commands through videos.
+1 hour - Coding practice.
+
+# Tomorrow's Task
+Attend the morning session for 2-3 hours to learn additional linux commands.
+Spend 2 hours practicing Linux commands through videos.
+Dedicate 1 hour to coding practice.
