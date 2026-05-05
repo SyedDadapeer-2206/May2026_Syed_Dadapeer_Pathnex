@@ -1,0 +1,11 @@
+# What I did today
+2 hours: Attended the morning session and learned how to provision AWS EC2 using Terraform. Also additional Linux commands 
+         such as ps, top, kill, pkill, pgrep, grep, uname, whoami, df, du, free, uptime, date, ifconfig, ping, netstat, ss,
+         ssh, scp, wget, and curl.
+2 hours: Practiced Linux commands through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Git.
+Spend 2 hours practicing Linux and Git commands through videos.
+Dedicate 1 hour to coding practice.
