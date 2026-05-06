@@ -1,0 +1,10 @@
+# What I did today
+2 hours: Attended the morning session and learned Git, Git workflow, git commands(clone, status, add, restore, commit, 
+         branch, push, pull, cherrypick, reset, git rules, git conflicts, stash, .gitignore)
+2 hours: Practiced Git commands through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn AWS.
+Spend 2 hours practicing Linux and Git commands, AWS through videos.
+Dedicate 1 hour to coding practice.
