@@ -1,0 +1,10 @@
+# What I did today
+2 hours: Attended the morning session and learned AWS services like Session Manager, Route 53, CloudTrail, CloudWatch, 
+         AutoScaling, Lambda, AWS Shield, AWS WAF, CloudFront, GuardDuty.
+2 hours: Practiced AWS services through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn AWS.
+Spend 2 hours practicing Linux and Git commands, AWS through videos.
+Dedicate 1 hour to coding practice.
