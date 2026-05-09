@@ -1,0 +1,9 @@
+# What I did today
+3 hours: Attended the morning session and learned AWS services like Key Management Service, Systems Manager, RDS, Aurora, 
+         DynamoDB, RedShift, DMS, Batch, Glue, EFS, Elastic Beanstalk, Snowball, CodePipeline, CodeBuild, CodeDeploy, X-Ray.
+2 hours: Practiced AWS services through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Spend 3-4 hours to revise Linux, Git, and AWS.
+Dedicate 1 hour to coding practice.
