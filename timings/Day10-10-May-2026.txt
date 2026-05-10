@@ -1,0 +1,8 @@
+# What I did today
+Spent 3-4 hours to revise Linux, Git, and AWS.
+2 hours attended evening class about Day-to-Day DevOps activities
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Azure.
+Dedicate 1 hour to coding practice.
