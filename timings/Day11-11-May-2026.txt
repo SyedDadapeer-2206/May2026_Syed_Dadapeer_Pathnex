@@ -1,0 +1,9 @@
+# What I did today
+3 hours: Attended the morning session and learned Docker (Docker, Container, Image, Dockerfile, Docker Hub, Volume, Network,
+         Registry, Docker Compose, Port Mapping, Layer, Daemon, CLI)
+2 hours: Practiced Docker through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Kubernetes/Azure.
+Dedicate 1 hour to coding practice.
