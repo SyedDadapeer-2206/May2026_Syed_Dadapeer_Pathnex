@@ -1,0 +1,7 @@
+# What I did today
+Today all about watched & practiced Kubernetes through videos like EKS cluster setup, run kubectl commands, Config k8s file and apply it.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Kubernetes.
+Dedicate 1 hour to coding practice.
