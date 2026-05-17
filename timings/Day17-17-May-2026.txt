@@ -1,0 +1,9 @@
+# What I did today
+3 hours: Attended the morning session and learned Kubernetes(taints & tolerations, affinity, node affinity, anti-affinity, 
+         CNI, cluster upgrade procedures, StatefulSet, DaemonSet)
+2 hours: Watched & practiced Kubernetes through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Kubernetes & helm.
+Dedicate 1 hour to coding practice.
