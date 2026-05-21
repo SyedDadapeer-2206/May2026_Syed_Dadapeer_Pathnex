@@ -1,0 +1,8 @@
+# What I did today
+3 hours: Attended the morning session and learned Terraform(Providers, Resources, Modules, State, and Terraform commands)
+2 hours: Watched & practiced Terraform through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Terraform.
+Dedicate 1 hour to coding practice.
