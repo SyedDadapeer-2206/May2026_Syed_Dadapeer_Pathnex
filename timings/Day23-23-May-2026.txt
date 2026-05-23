@@ -1,0 +1,8 @@
+# What I did today
+3 hours: Attended the morning session and learned Ansible(Diff b/w Terraform & Ansible, Ansible components, commmands, playbooks)
+2 hours: Watched & practiced Ansible through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Spend 5-6 hours to revise Kubernetes, Terraform & Ansible.
+Dedicate 1 hour to coding practice.
