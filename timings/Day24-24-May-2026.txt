@@ -1,0 +1,7 @@
+# What I did today
+Spend 5-6 hours to revise & practice Kubernetes, Terraform & Ansible.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Jenkins.
+Dedicate 1 hour to coding practice.
