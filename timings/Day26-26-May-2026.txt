@@ -1,0 +1,8 @@
+# What I did today
+2 hours: Attended the morning session and learned Monitoring(Datadog, Prometheus, Grafana configure using EKS cluster)
+3 hours: Watched & practiced Monitoring/Observability through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Monitoring.
+Dedicate 1 hour to coding practice.
