@@ -1,0 +1,8 @@
+# What I did today
+2 hours: Attended the morning session and learned ELK(Step-by-Step ELK Workflow, ILM)
+3 hours: Watched & practiced ELK stack through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn Kafka.
+Dedicate 1 hour to coding practice.
