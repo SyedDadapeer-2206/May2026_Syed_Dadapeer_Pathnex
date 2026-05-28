@@ -1,0 +1,8 @@
+# What I did today
+2 hours: Attended the morning session and learned Kafka(Architecture, Components, Data Flow)
+2 hours: Watched & practiced Kafka through videos.
+1 hour: Coding practice.
+
+# Tomorrow's Task
+Attend the morning session (2–3 hours) to learn SRE.
+Dedicate 1 hour to coding practice.
